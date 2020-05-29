@@ -1,0 +1,9 @@
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\obj\Debug\netstandard2.0\GeneticFramework.csprojAssemblyReference.cache
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\obj\Debug\netstandard2.0\GeneticFramework.csproj.CoreCompileInputs.cache
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\obj\Debug\netstandard2.0\GeneticFramework.AssemblyInfoInputs.cache
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\obj\Debug\netstandard2.0\GeneticFramework.AssemblyInfo.cs
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\bin\Debug\netstandard2.0\GeneticFramework.deps.json
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\bin\Debug\netstandard2.0\GeneticFramework.dll
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\bin\Debug\netstandard2.0\GeneticFramework.pdb
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\obj\Debug\netstandard2.0\GeneticFramework.dll
+C:\Users\Marat\Desktop\GitHub\Genetic-algorithm\GeneticFramework\GeneticFramework\obj\Debug\netstandard2.0\GeneticFramework.pdb

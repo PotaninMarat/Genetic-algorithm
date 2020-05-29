@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test1/1.0.0": {
+        "dependencies": {
+          "GeneticFramework": "1.0.0"
+        },
+        "runtime": {
+          "Test1.dll": {}
+        }
+      },
+      "GeneticFramework/1.0.0": {
+        "runtime": {
+          "GeneticFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneticFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
